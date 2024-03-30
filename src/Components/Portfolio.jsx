@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "FreelanceHub",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+       "Your go-to platform for finding freelancers and posting jobs. Built with Node.js, React, and Firebase, it simplifies connections. Whether you're a company seeking talent or a freelancer seeking opportunities, we've got you covered!",
+    url: "https://freelance-hub-beryl.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "QUIZDUDE",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "It is an interactive web based quiz platform using React.js & Material-UI with more 20 different categories of questions with a responsive user interface through the Open Trivia Database API, enhancing Quizdude with a wide range of questions across various categories with 3-levels of difficulty and error generation",
+    url: "https://itstanvii.github.io/QuizDude/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Explore my resume site for insights into my experience and skills.",
+    url: "https://drive.google.com/file/d/1Pw1cRBPqMbYkgtgVLGzT0EFuBl-xE8qp/view?usp=sharing",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Blog on Amazon Ml Summer School 2023",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Discover my experience at the Amazon ML Summer School 2023, where I learned about machine learning from Amazon applied scientist. From selection tests to virtual sessions and internship opportunities, follow along and don't forget to smash the like button👍",
+    url: "https://medium.com/@tanvijain1511/my-amazon-ml-summer-school-2023-experience-a2a4a9250684",
   },
 ];
 
