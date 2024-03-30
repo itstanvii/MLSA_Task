@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/moon.jpg";
+import image from "../images/tanvibg.jpg";
 
 const imageAltText = "In the dance of light and shadow, we mirror the moon, revealing our brightest radiance alongside our hidden depths";
 
